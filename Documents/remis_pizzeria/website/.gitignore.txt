@@ -1,0 +1,26 @@
+# temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Antigravity / AI editor temp files
+.antigravity/
+.ag/
+.augment/
+.cursor/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+build/
